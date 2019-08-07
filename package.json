@@ -15,7 +15,7 @@
     "components-jqueryui": "components/jqueryui#^1.12.1",
     "exif-js": "jseidelin/exif-js#*",
     "glfx-js": "jywarren/glfx.js#*",
-    "decompress-zip": "0.2.1",
+    "decompress-zip": "0.2.2",
     "graceful-fs": "4.1.0",
     "graceful-js": "1.0.0",
     "image-sequencer": "publiclab/image-sequencer#~1.4.0",
