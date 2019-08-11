@@ -117,7 +117,7 @@ GEM
     multi_xml (0.6.0)
     mysql2 (0.5.2)
     net-http-persistent (2.9.4)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     oa-core (0.3.2)
     oa-openid (0.3.2)
